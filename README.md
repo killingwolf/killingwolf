@@ -19,5 +19,6 @@
 | zebra stripes | are neat      |    $1 |
 `
  #/usr/bin/python  
+ 
  print 124  
 `
