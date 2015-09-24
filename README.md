@@ -1,6 +1,6 @@
 # killingwolf
 
-链接 :[Title]www.baidu.com  
+链接 :[Title]（www.baidu.com）  
 加粗 :**Bold**  
 斜体字 :*Italics*  
 删除线 :~~text~~  
